@@ -11,21 +11,21 @@
 }
 
 body {
-  background-color: #1d1f22;
+  background-color: #36373a;
 }
 
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
+  text-shadow: 5px 0 #111111;
   font-size: 8rem;
-  color: #899792;
+  color: #6e6c6c;
 }
 
 p {
   font-size: 2rem;
-  color: #5f7c48;
-  font-family: 'Indie Flower', cursive;
+  color: #d4ec4ae5;
+  font-family: 'Lobster', cursive;
 }
 
 img {
@@ -36,6 +36,6 @@ footer {
   margin-top: 5%;
   color: #EEEEEE;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Lobster', cursive;
 
 }
